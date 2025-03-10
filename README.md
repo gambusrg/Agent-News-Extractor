@@ -38,7 +38,7 @@ To set up the project locally, follow these steps:
    ```
 4. Install the required dependencies:
    ```bash
-   pip install langchain-ollama langchain pydantic python-dotenv newsapi-python
+   pip install requirements.txt
    ```
 
 ## Usage
